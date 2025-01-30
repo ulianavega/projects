@@ -26,6 +26,6 @@ Analyzed this data
 
 Tried to create a model to predict stock price with XGBoost, Logistic Regression, SVC, also tried fastai (DL)
 
-# [Data Visualization of Flights](DataVisualization.ipynb)
+# [Data Visualization of Flights](DataVisualisation.ipynb)
 
 Visualized some flights data from Kaggle
