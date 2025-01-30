@@ -13,3 +13,15 @@ Pre-processed the data
 Built a recsys based on machine learning
 
 Calculated metrics based on the results of the model
+
+# [Stock price prediction](price_prediction.ipynb)
+
+Tried classic ML models to predict stock price
+
+What was done:
+
+Downloaded data from yfinance
+
+Analyzed this data
+
+Tried to create a model to predict stock price with XGBoost, Logistic Regression, SVC^ alsi tried fastai (DL)
