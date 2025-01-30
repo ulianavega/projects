@@ -24,4 +24,4 @@ Downloaded data from yfinance
 
 Analyzed this data
 
-Tried to create a model to predict stock price with XGBoost, Logistic Regression, SVC^ alsi tried fastai (DL)
+Tried to create a model to predict stock price with XGBoost, Logistic Regression, SVC, also tried fastai (DL)
