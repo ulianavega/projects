@@ -1,4 +1,4 @@
-# Here you can find a list of all my projects
+# Here you can find some of my projects
 
 # [RecSys for Movie Choosing](recsys_movie.ipynb):
 
